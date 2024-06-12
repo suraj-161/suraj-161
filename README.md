@@ -12,8 +12,7 @@ My academic background, combined with my practical experience in investment mana
 - Investment management strategies
 - Data analysis and visualization
 - Quantitative methods and statistical analysis
-- Market research and trend analysis
-- Programming languages: Python, R, SQL
+- Programming languages: Python
 
 ### Connect with Me
 
